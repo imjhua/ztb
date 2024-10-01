@@ -1,8 +1,8 @@
-import { SafeAreaView, StatusBar, StyleSheet, Text } from 'react-native'
+import { StyleSheet } from 'react-native'
 import { WebView } from 'react-native-webview'
 
 const URI =
-  'https://idlt-apps.vercel.app/%EB%A7%A4%EC%9D%BC%EC%98%81%EC%96%B4%EB%AC%B8%EC%9E%A5'
+  'https://idlt-apps.vercel.app/%EB%9E%9C%EB%8D%A4%EB%8B%AC%EB%A6%AC%EA%B8%B0'
   
 const Page = () => {
   return (

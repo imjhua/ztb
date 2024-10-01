@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "zta",
-    "slug": "zta",
-    "scheme": "zta",
+    "name": "랜덤 달리기",
+    "slug": "ztb",
+    "scheme": "ztb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.idlt.zta",
+      "bundleIdentifier": "com.idlt.ztb",
       "config": {
         "usesNonExemptEncryption": false
       },
@@ -33,7 +33,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "f500d7f1-feec-48e1-a162-1d9f912a7aed"
+        "projectId": "a60b5a13-20c9-4ef9-9582-37156f96ec77"
       }
     },
     "owner": "idltapps"
